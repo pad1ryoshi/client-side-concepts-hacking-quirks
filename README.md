@@ -4,4 +4,5 @@ O meu objetivo com esse repositório é alimentar ele de conteúdo que eu consid
 
 # Arquivos
 
-- [Conceitos padrões explicados de uma forma simples]([https://www.geeksforgeeks.org/](https://github.com/pad1ryoshi/client-side-concepts-hacking-quirks/blob/main/client-side-basic-concepts.md))
+- [Conceitos padrões explicados de uma forma simples](https://github.com/pad1ryoshi/client-side-concepts-hacking-quirks/blob/main/client-side-basic-concepts.md)
+
